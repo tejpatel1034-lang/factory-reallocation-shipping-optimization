@@ -1,0 +1,4 @@
+Model,RMSE,MAE,R2,R2_within_year
+Linear Regression (baseline),182.5767,181.5326,0.5286,-0.0061
+Gradient Boosting,182.8135,180.6857,0.5274,-0.0084
+Random Forest,183.6358,179.5116,0.5232,-0.0177

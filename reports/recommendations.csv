@@ -1,0 +1,54 @@
+Product,Region,Current factory,Recommended factory,Lead time reduction (days),Lead time reduction (%),Distance reduction (%),Profit impact ($),Profit impact (%),Risk,Confidence (%),Score
+Everlasting Gobstopper,Gulf,Secret Factory,The Other Factory,-7.037,-0.506,36.749,0.946,2.956,Low,0.0,0.847
+Everlasting Gobstopper,Interior,Secret Factory,The Other Factory,-7.361,-0.528,29.37,0.477,1.986,Low,0.0,0.942
+Everlasting Gobstopper,Pacific,Secret Factory,Sugar Shack,0.402,0.029,2.723,0.085,0.176,Medium,0.0,0.77
+Fizzy Lifting Drinks,Atlantic,Sugar Shack,Secret Factory,0.529,0.036,31.548,1.908,9.42,Low,100.0,0.999
+Fizzy Lifting Drinks,Gulf,Sugar Shack,The Other Factory,-5.939,-0.406,58.845,2.328,25.862,Low,100.0,0.819
+Fizzy Lifting Drinks,Interior,Sugar Shack,Secret Factory,0.713,0.049,59.772,1.175,10.441,Low,0.0,1.0
+Fizzy Lifting Drinks,Pacific,Sugar Shack,Lot's O' Nuts,-19.888,-1.358,92.712,2.239,33.175,Low,0.0,0.9
+Fun Dip,Atlantic,Sugar Shack,Secret Factory,0.418,0.033,26.734,0.73,30.414,Low,100.0,1.0
+Fun Dip,Gulf,Sugar Shack,The Other Factory,-6.292,-0.494,78.787,0.497,82.882,Low,0.0,0.944
+Fun Dip,Interior,Sugar Shack,Secret Factory,1.096,0.086,81.349,1.035,57.498,Low,0.0,1.0
+Hair Toffee,Atlantic,The Other Factory,Secret Factory,8.469,0.582,17.591,0.534,3.05,Low,100.0,1.0
+Hair Toffee,Gulf,The Other Factory,Wicked Choccy's,-14.718,-1.016,56.058,0.43,6.148,Low,0.0,0.895
+Hair Toffee,Pacific,The Other Factory,Lot's O' Nuts,-11.599,-0.795,78.469,7.276,20.79,Low,0.0,0.846
+Kazookles,Atlantic,The Other Factory,Wicked Choccy's,-15.193,-1.042,18.127,15.745,42.268,Low,100.0,0.755
+Kazookles,Gulf,The Other Factory,Wicked Choccy's,-15.367,-1.058,21.31,4.56,23.384,Low,83.333,0.896
+Kazookles,Interior,The Other Factory,Secret Factory,7.523,0.517,-31.767,-4.346,-44.573,High,100.0,0.586
+Kazookles,Pacific,The Other Factory,Lot's O' Nuts,-11.99,-0.822,61.066,66.194,252.168,Low,96.667,0.778
+Laffy Taffy,Atlantic,Sugar Shack,Secret Factory,0.569,0.037,34.251,3.238,18.652,Low,83.333,0.998
+Laffy Taffy,Gulf,Sugar Shack,The Other Factory,-5.939,-0.388,58.845,6.401,46.927,Low,100.0,0.822
+Laffy Taffy,Interior,Sugar Shack,Secret Factory,0.331,0.021,43.388,0.162,13.028,Low,0.0,1.0
+Laffy Taffy,Pacific,Sugar Shack,Secret Factory,-1.41,-0.092,-35.25,-0.255,-20.605,Low,100.0,0.748
+Lickable Wallpaper,Atlantic,Secret Factory,Wicked Choccy's,-23.736,-1.61,-6.305,-3.856,-0.277,Low,100.0,0.754
+Lickable Wallpaper,Gulf,Secret Factory,Wicked Choccy's,-22.971,-1.562,49.633,7.497,2.026,Low,100.0,0.829
+Lickable Wallpaper,Interior,Secret Factory,The Other Factory,-8.416,-0.572,-36.807,-6.415,-0.903,High,100.0,0.54
+Lickable Wallpaper,Pacific,Secret Factory,Lot's O' Nuts,-20.524,-1.391,59.275,79.581,5.451,Low,85.294,0.791
+Nerds,Atlantic,Sugar Shack,Secret Factory,0.473,0.032,27.589,1.878,26.827,Low,0.0,1.0
+SweeTARTS,Atlantic,Sugar Shack,Secret Factory,0.569,0.038,32.955,5.323,31.687,Low,80.0,1.0
+SweeTARTS,Interior,Sugar Shack,Secret Factory,0.469,0.031,29.616,2.542,27.935,Low,75.0,0.868
+SweeTARTS,Pacific,Sugar Shack,Lot's O' Nuts,-20.674,-1.376,62.096,2.232,79.723,Low,0.0,0.837
+Wonka Bar - Fudge Mallows,Atlantic,Lot's O' Nuts,Secret Factory,26.098,1.765,63.865,1655.756,34.357,High,100.0,0.75
+Wonka Bar - Fudge Mallows,Gulf,Lot's O' Nuts,The Other Factory,17.821,1.21,71.557,827.417,31.863,High,100.0,0.62
+Wonka Bar - Fudge Mallows,Interior,Lot's O' Nuts,Secret Factory,24.198,1.641,52.979,595.286,15.551,High,100.0,0.75
+Wonka Bar - Fudge Mallows,Pacific,Lot's O' Nuts,Sugar Shack,21.247,1.442,-106.448,-948.5,-17.73,High,100.0,0.531
+Wonka Bar - Milk Chocolate,Atlantic,Wicked Choccy's,Secret Factory,23.7,1.602,3.154,36.606,0.743,High,100.0,0.75
+Wonka Bar - Milk Chocolate,Gulf,Wicked Choccy's,The Other Factory,15.255,1.035,-39.749,-116.698,-4.079,High,100.0,0.699
+Wonka Bar - Milk Chocolate,Interior,Wicked Choccy's,Secret Factory,24.834,1.679,46.53,529.053,13.416,High,78.958,0.75
+Wonka Bar - Milk Chocolate,Pacific,Wicked Choccy's,Sugar Shack,26.253,1.772,39.756,1468.287,25.716,High,100.0,0.529
+Wonka Bar - Nutty Crunch Surprise,Atlantic,Lot's O' Nuts,Secret Factory,26.103,1.763,63.825,1533.027,33.154,High,100.0,0.75
+Wonka Bar - Nutty Crunch Surprise,Gulf,Lot's O' Nuts,The Other Factory,17.824,1.208,72.294,832.312,30.723,High,100.0,0.623
+Wonka Bar - Nutty Crunch Surprise,Interior,Lot's O' Nuts,Secret Factory,24.342,1.648,57.989,705.974,16.737,High,100.0,0.75
+Wonka Bar - Nutty Crunch Surprise,Pacific,Lot's O' Nuts,Sugar Shack,21.214,1.437,-105.453,-903.802,-17.154,High,100.0,0.532
+Wonka Bar - Triple Dazzle Caramel,Atlantic,Wicked Choccy's,Secret Factory,23.671,1.597,1.925,18.81,0.368,High,100.0,0.75
+Wonka Bar - Triple Dazzle Caramel,Gulf,Wicked Choccy's,The Other Factory,15.201,1.029,-42.18,-110.777,-3.697,High,100.0,0.697
+Wonka Bar - Triple Dazzle Caramel,Interior,Wicked Choccy's,Secret Factory,24.853,1.677,48.276,497.588,12.003,High,76.718,0.75
+Wonka Bar - Triple Dazzle Caramel,Pacific,Wicked Choccy's,Sugar Shack,26.272,1.769,40.064,1429.717,22.488,High,100.0,0.532
+Wonka Bar -Scrumdiddlyumptious,Atlantic,Lot's O' Nuts,Secret Factory,26.099,1.76,63.405,1936.322,32.973,High,100.0,0.75
+Wonka Bar -Scrumdiddlyumptious,Gulf,Lot's O' Nuts,The Other Factory,17.846,1.208,72.128,926.975,30.822,High,100.0,0.619
+Wonka Bar -Scrumdiddlyumptious,Interior,Lot's O' Nuts,Secret Factory,24.08,1.627,49.216,576.715,13.389,High,100.0,0.75
+Wonka Bar -Scrumdiddlyumptious,Pacific,Lot's O' Nuts,Sugar Shack,21.265,1.438,-104.641,-1029.038,-16.678,High,100.0,0.534
+Wonka Gum,Atlantic,Secret Factory,Wicked Choccy's,-23.625,-1.607,-0.609,-0.463,-0.422,Low,100.0,0.775
+Wonka Gum,Gulf,Secret Factory,Wicked Choccy's,-22.538,-1.536,55.042,30.75,39.423,Low,100.0,0.834
+Wonka Gum,Interior,Secret Factory,The Other Factory,-8.214,-0.559,-22.52,-7.212,-9.907,High,100.0,0.568
+Wonka Gum,Pacific,Secret Factory,Lot's O' Nuts,-20.563,-1.396,58.722,40.472,80.863,Low,100.0,0.793

@@ -1,0 +1,11 @@
+{
+  "selected_model": "Linear Regression (baseline)",
+  "kpis": {
+    "Lead Time Reduction (%)": 0.22,
+    "Distance Reduction (%)": 27.884,
+    "Profit Impact Stability (% recs with profit gain)": 79.245,
+    "Scenario Confidence Score (%)": 74.704,
+    "Recommendation Coverage (%)": 70.0
+  },
+  "corr_distance_leadtime": 0.0147
+}
