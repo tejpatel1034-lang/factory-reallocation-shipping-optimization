@@ -95,3 +95,6 @@ Real freight rates · factory capacity data · true delivery dates · constraine
 
 ---
 <div align="center">Built for the Unified Mentor project · Nassau Candy Distributor dataset</div>
+---
+Author Name : Tej Patel 
+Project : Factory Reallocation & Shipping Optimization Recommendation System for Nassau Candy Distributor
